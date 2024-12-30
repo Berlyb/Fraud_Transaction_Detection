@@ -25,15 +25,15 @@ Visualizations: Analyzing model performance with ROC curve, feature importance, 
 
 **Technologies Used**
 
-Apache Spark: For distributed data processing and machine learning.
+🚀 Apache Spark: For distributed data processing and machine learning.
 
-Databricks Community Edition: For cluster setup and notebook execution.
+🧰 Databricks Community Edition: For cluster setup and notebook execution.
 
-PySpark: For data processing and model training.
+🐍 PySpark: For data processing and model training.
 
-Matplotlib and Seaborn: For visualizations.
+📊 Matplotlib and Seaborn: For visualizations.
 
-Pandas and NumPy: For data manipulation and analysis.
+📈 Pandas and NumPy: For data manipulation and analysis.
 
 **Usage**
 
